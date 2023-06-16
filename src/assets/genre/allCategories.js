@@ -1,5 +1,5 @@
 
-export default allCategories[
+export const allCategories = [
 
     {
         "id": 1,
