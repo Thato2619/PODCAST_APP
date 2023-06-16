@@ -1,5 +1,5 @@
 import React from "react";
-import {Error, Loader, Podcard} from '../components'
+import {Error, Loader} from '../components'
 import {genres} from '../assets/constants'
 const Discover = () => <div>Discover</div>;
 
