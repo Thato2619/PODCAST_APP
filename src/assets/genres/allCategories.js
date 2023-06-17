@@ -1,19 +1,20 @@
 
 export const allCategories = [
 
-    {
-        "id": 1,
-        "title": "Personal Growth",
-        "description": "Looking to improve yourself and reach your full potential? Look no further than our collection of personal growth podcasts! Our curated selection features a wide range of experts and thought leaders sharing their insights and strategies on everything from goal setting and productivity to mindfulness and self-care. Whether you're looking to advance your career, improve your relationships, or simply live a happier and more fulfilling life, our podcasts offer practical, actionable advice to help you achieve your goals.",
-        "shows": ["10716", "10276", "6756", "10660"]
-      },
+  {
+    "id": 1,
+    "title": "Personal Growth",
+    "description": "Looking to improve yourself and reach your full potential? Look no further than our collection of personal growth podcasts! Our curated selection features a wide range of experts and thought leaders sharing their insights and strategies on everything from goal setting and productivity to mindfulness and self-care. Whether you're looking to advance your career, improve your relationships, or simply live a happier and more fulfilling life, our podcasts offer practical, actionable advice to help you achieve your goals.",
+    "shows": [ "10716", "10276","6756","10660"]
+  }
+  ,
 
       {
   "id": 2,
   "title": "Investigative Journalism",
   "description": "Looking for a collection of podcasts that will keep you on the edge of your seat? Look no further than our selection of investigative journalism podcasts! These shows feature in-depth reporting and in-depth analysis of some of the most important and intriguing stories of our time. From breaking news to long-form investigations, these podcasts have it all. Whether you're a news junkie or just looking for something to keep you informed and engaged, these podcasts are the perfect choice. ",
   "shows": [
-    "10716",
+   " 10716 ",
     "5675",
     "10539",
     "9177",

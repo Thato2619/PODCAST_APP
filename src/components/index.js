@@ -1,6 +1,6 @@
 import Sidebar from './Sidebar';
 import Searchbar from './Searchbar';
-import SongCard from './PodCard';
+import PodCard from './PodCard';
 import TopPlay from './TopPlay';
 import ArtistCard from './ArtistCard';
 import DetailsHeader from './DetailsHeader';
@@ -13,7 +13,7 @@ import Error from './Error';
 export {
   TopPlay,
   Sidebar,
-  SongCard,
+  PodCard,
   Searchbar,
   ArtistCard,
   DetailsHeader,
